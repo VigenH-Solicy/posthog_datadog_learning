@@ -1,7 +1,7 @@
 # posthog_datadog_learning
 Posthog and Datadog creedentials and URL's see below.
 
-# Posthod
+# Posthog
 ```bash
 Login: vigen.hovhannisyan@solicy.net
 Password: solicy123
